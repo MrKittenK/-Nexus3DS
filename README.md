@@ -5,7 +5,8 @@
 # Nexus3DS
 
 <p align="center">
-  <em>Nintendo 3DS "Custom Firmware" Fork with Enhanced Features</em>
+  <em>Nintendo 3DS "Custom Firmware" Fork for learning</em>
+<em>NOT THE OFFICAL VERSION - THIS IS A FORK! 
 </p>
 
 <p align="center">
